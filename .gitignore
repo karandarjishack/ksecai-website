@@ -1,0 +1,4 @@
+.venv/
+.pdf_pages/
+pdf_ocr.txt
+.DS_Store
